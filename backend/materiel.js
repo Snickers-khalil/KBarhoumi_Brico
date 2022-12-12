@@ -1,0 +1,3 @@
+class material{
+    totalLocation = int ;
+}
